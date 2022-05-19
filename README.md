@@ -1,9 +1,9 @@
 # Projeto HTML/CSS
 
-## Básico
+### Básico
 
 - HTML/CSS básicos
 
-## Animações
+### Animações
 
 - Animações em CSS
