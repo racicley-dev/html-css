@@ -1,0 +1,19 @@
+body {
+    background-color: #ccc;
+}
+
+.post {
+    background-color: blanchedalmond;
+    border: 3px solid #000;
+    padding: 10px;
+    margin: 10px;
+}
+
+#titulo, .sub_titulo, .sub_titulo2 {
+    color: blue;
+}
+
+.sub_titulo {
+    font-size: 16px;
+    font-style: italic;
+}
